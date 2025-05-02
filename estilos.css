@@ -1,11 +1,11 @@
-@import url('./css/cabecalho.css');
-@import url('./css/destaque.css');
-@import url('./css/servicos.css');
-@import url('./css/planos.css');
-@import url('./css/ofertas.css');
-@import url('./css/parceiros.css');
-@import url('./css/newsletter.css');
-@import url('./css/rodape.css');
+@import url('cabecalho.css');
+@import url('destaque.css');
+@import url('servicos.css');
+@import url('planos.css');
+@import url('ofertas.css');
+@import url('parceiros.css');
+@import url('newsletter.css');
+@import url('rodape.css');
 
 :root {
     /* Cores */
