@@ -2,4 +2,4 @@
 
 #Você pode acessar visualizando a página abaixo:
 
-#[Clique aqui!](https://https://https://janamirelly.github.io/projeto-site-petpark/)
+[Clique aqui!](https://janamirelly.github.io/projeto-site-petpark/)
